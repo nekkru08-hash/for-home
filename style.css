@@ -42,12 +42,18 @@
 }
 
 .head2 {
+    margin-left: 150px;
+    margin-top: 20px;
     display: flex;
+    gap: 50px;
 }
 
 .divtext2 {
     width: 40%;
-    background-color: red;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .divtext2 span {
@@ -66,19 +72,45 @@
 
 .right {
     /* width: 60%; */
+    /* background-color: blue;git */
+    position: relative;
 }
 
 .woman {
     width: 600px;
     position: absolute;
-    margin-top: 95px;
-    margin-left: 100px;
+    margin-top: 43px;
+    margin-left: 10px;
     /* margin-top: 100px; */
     /* margin-left: 100px; */
 }
 
 .h {
     width: 500px;
-    margin-top: 100px;
-    margin-left: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.img1 {
+    width: 40px;
+    position: absolute;
+    bottom: 420px;
+    left: 10px;
+}
+
+.img2 {
+    position: absolute;
+    bottom: 400px;
+    left: 530px;
+}
+
+.img3 {
+    position: absolute;
+    top: 450px;
+}
+
+.img4 {
+    position: absolute;
+    top: 450px;
+    left: 530px;
 }
