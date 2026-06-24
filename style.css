@@ -276,3 +276,69 @@
 .hh {
     margin-top: 20px;
 }
+
+.section4 {
+    display: flex;
+    width: 100%;
+    /* margin: auto; */
+    height: 400px;
+    justify-content: center;
+    background-image: url(/Group\ 46.png);
+    gap: 30px;
+}
+
+.cont7 {
+    width: 220px;
+    height: 300px;
+    padding: 10px;
+    color: white;
+    margin-top: 20px;
+    /* background-color: grey; */
+}
+
+.pp9 {
+    width: 100px;
+    height: 20px;
+    /* padding: 5px; */
+    text-align: center;
+    /* background-color: red; */
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.pp2 {
+    width: 200px;
+    /* text-align: center; */
+    /* background-color: blue; */
+    margin: auto;
+    padding: 10px;
+    line-height: 25px;
+}
+
+.cont7 button {
+    width: 150px;
+    /* background-color: red; */
+    text-align: center;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+    border: solid 2px white;
+}
+
+.aaa {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    background-color: #2C353E;
+}
+
+.dsp {
+    font-size: 20px;
+    gap: 30px;
+    color: white;
+    padding: 10px;
+    display: flex;
+    /* margin-left: 100px; */
+}
